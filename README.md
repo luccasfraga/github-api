@@ -29,3 +29,5 @@ npm install && npm start
 
 ### Preview
 
+https://github.com/luccasfraga/github-api/assets/6876234/91b90bcb-4b0d-4d87-b092-c4c66ad66b2d
+
